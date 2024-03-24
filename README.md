@@ -33,7 +33,7 @@ OR using npm
 npm install
 npm start
 ```
-for the live project click on  https://kaif132380.github.io/G-map-master/
+ 
 
 
 
